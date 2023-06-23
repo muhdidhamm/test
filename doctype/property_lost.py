@@ -1,0 +1,1 @@
+print(property_lost)
